@@ -61,13 +61,13 @@ Grad-CAM is used to visualize areas in the MRI scan most important for decision-
 ---
 
 ## 📁 Project Structure
-
+```
 .
 ├── Medical Brain Tumor.ipynb      # Training, evaluation, Grad-CAM
 ├── brain_tumor_resnet50_with_preprocessing.keras
 ├── app.py                        # Streamlit app with Grad-CAM
 └── README.md
-
+```
 ---
 
 ## ⚙️ Training Pipeline (Notebook)
